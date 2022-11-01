@@ -87,5 +87,5 @@
 
 ## 42 Profile
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lshail" alt="lshail's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/lshail" alt="lshail's 42 stats" align="center" /></a>
 
