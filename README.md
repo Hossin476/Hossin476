@@ -60,12 +60,10 @@
 
 ## Connect with me  
 <div align="center" margin="0 20px">
-<a href="https://github.com/Hossin476" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/hossin__sh20" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://linkedin.com/in/lahoucine shail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahoucine shail" height="30" width="40" /></a>
 </div>  
   
 
