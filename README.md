@@ -60,9 +60,7 @@
 
 ## Connect with me  
 <div align="center" margin="0 20px">
-<a href="https://instagram.com/hossin__sh20" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://instagram.com/hossin__sh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hossin__sh20" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/lahoucine shail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lahoucine shail" height="30" width="40" /></a>
 </div>  
   
