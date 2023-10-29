@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Lahoucine Shail, a Software development student at 1337 Khouribga ( 42 Network ) and a self-taught Web Developer</div>  
+### <div align="center">I'm Lahoucine Shail, a Software development student at 1337 Khouribga ( 42 Network ) && a MERN Stack Web Developer</div>  
   
 
 - 🌱 I’m currently learning C language and working on personal projects using the MERN stack  
