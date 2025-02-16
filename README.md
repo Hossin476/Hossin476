@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on 42 Cursus Projects && MERN Stack Projects && Robotics Projects<br>🌱 I’m currently learning Angular 19, VueJS, NextJS && TypeScript<br>💬 Ask me about Robotics, Web Dev && AI
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Hossin476&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Ganymede_SH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hossin__sh20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lahoucine-shail-56b68a23b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lahoucine.shail.dev@gmail.com) 
@@ -11,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Hossin476&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hossin476&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossin476&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Hossin476&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
